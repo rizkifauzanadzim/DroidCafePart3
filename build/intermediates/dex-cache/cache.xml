@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\.android\build-cache\d620f457e1d0da86ef0176e749f4d81f92edb3a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb7f62de4bd2e2875eb81fe0e616ec29ba47034a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\.android\build-cache\07907853a1e0a7fc98f69a6b089d6be1eb8a28e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60fa95331f402f0610539294bdb89e6624ac5ace\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_f7c7fe72205f371ec177b0a8d37047f67839cbed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\.android\build-cache\d620f457e1d0da86ef0176e749f4d81f92edb3a7\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_643b984ae9efd7d3cde71407ddc893e36a0a9966\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\.android\build-cache\123758fe9365cacab1cfd75eea056c7172bd04e6\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_41486c61d4f9226a00b8ac11048b063e7697f9c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\.android\build-cache\9f9d413dda73ce48d61bd83670be9f96a66ec406\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3362cd30e06639797a4c97f8c12ea69f65fac56e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\.android\build-cache\4f26d1fca159c84eb2852d3e770fd29007079536\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ff276adf00dad53e76743febbd4f22352616e1d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\.android\build-cache\4f26d1fca159c84eb2852d3e770fd29007079536\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b073ac98a22c0672a5748fba4b51dabd66be38f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_df69a889b377245241bf8932d3d373a1f800b6d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\.android\build-cache\123758fe9365cacab1cfd75eea056c7172bd04e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d6b88d55852f98c9c6eb118fc19897b11340f5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\.android\build-cache\8bc253bafd9788d68a0448400bdf28e34fe2b259\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3fd34e04c47660b17c21c38b5a104cba47e2f8f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\.android\build-cache\9ffe673f93acbc8405b306aecf929eb8d15dd29a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8eab1d103a48a3db3f7ed7ac8a67fad5b4f1f799\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\.android\build-cache\58bf956ec5b6bae44ee7c3a807d0a1b063863b23\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5570142e2b5eb014267816930b15c377af6c51c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\.android\build-cache\07907853a1e0a7fc98f69a6b089d6be1eb8a28e5\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c51660aafcb50d524d1080da934d225774dc9125\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\.android\build-cache\b8b52746455e03c09522b4ad21b2364ee332ee49\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_241ff731c4d1e3cfb293535fe129bd2a02083be2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\.android\build-cache\58bf956ec5b6bae44ee7c3a807d0a1b063863b23\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c518804837675bbec45ca94c24ad71a7935edcfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\.android\build-cache\e2da561119b700b8ba2f9e01f4cd4da054f53d80\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba626cd386c54f42f35b52c94277b9720310bc4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3fe80453c6ff21f198c5e0884bb048831fd87260">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3eb94b743744dc6d325857784cbea064e2d1e316\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\.android\build-cache\f10b0b280483966c1f5d295849597bb1ba017f01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cd56b7547426fb3259c4abb1406de430cb8f657\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rizki Fauzan\.android\build-cache\68cca4e0e3d5f34f84ee5f0b98770c6b4ffc5a4e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="F:\Data\android-fundamentals-master\DroidCafePart3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9588f779d344b578150d1c5e701087c34b16487e\classes.dex" />
+    </item>
+
+</items>
