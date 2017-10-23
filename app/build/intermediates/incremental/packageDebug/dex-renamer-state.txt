@@ -1,0 +1,7 @@
+#Fri Oct 20 22:13:43 ICT 2017
+base.0=F\:\\Data\\android-fundamentals-master\\DroidCafePart3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_df69a889b377245241bf8932d3d373a1f800b6d7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Data\\android-fundamentals-master\\DroidCafePart3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3eb94b743744dc6d325857784cbea064e2d1e316\\classes.dex
+base.1=F\:\\Data\\android-fundamentals-master\\DroidCafePart3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3eb94b743744dc6d325857784cbea064e2d1e316
+file.0=F\:\\Data\\android-fundamentals-master\\DroidCafePart3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_df69a889b377245241bf8932d3d373a1f800b6d7\\classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Data\\android-fundamentals-master\\DroidCafePart3\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\Rizki Fauzan\\.android\\build-cache\\9ffe673f93acbc8405b306aecf929eb8d15dd29a\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "F:\\Data\\android-fundamentals-master\\DroidCafePart3\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Rizki Fauzan\\.android\\build-cache\\9ffe673f93acbc8405b306aecf929eb8d15dd29a\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\Data\\android-fundamentals-master\\DroidCafePart3\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Rizki Fauzan\\.android\\build-cache\\9ffe673f93acbc8405b306aecf929eb8d15dd29a\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    }
+]
